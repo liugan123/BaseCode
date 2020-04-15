@@ -1,0 +1,16 @@
+E:\learn\BaseCode\BaseCode\bin\Debug\netcoreapp3.1\BaseCode.exe
+E:\learn\BaseCode\BaseCode\bin\Debug\netcoreapp3.1\BaseCode.deps.json
+E:\learn\BaseCode\BaseCode\bin\Debug\netcoreapp3.1\BaseCode.runtimeconfig.json
+E:\learn\BaseCode\BaseCode\bin\Debug\netcoreapp3.1\BaseCode.runtimeconfig.dev.json
+E:\learn\BaseCode\BaseCode\bin\Debug\netcoreapp3.1\BaseCode.dll
+E:\learn\BaseCode\BaseCode\bin\Debug\netcoreapp3.1\BaseCode.pdb
+E:\learn\BaseCode\BaseCode\bin\Debug\netcoreapp3.1\LinkList.dll
+E:\learn\BaseCode\BaseCode\bin\Debug\netcoreapp3.1\LinkList.pdb
+E:\learn\BaseCode\BaseCode\obj\Debug\netcoreapp3.1\BaseCode.csprojAssemblyReference.cache
+E:\learn\BaseCode\BaseCode\obj\Debug\netcoreapp3.1\BaseCode.csproj.CoreCompileInputs.cache
+E:\learn\BaseCode\BaseCode\obj\Debug\netcoreapp3.1\BaseCode.AssemblyInfoInputs.cache
+E:\learn\BaseCode\BaseCode\obj\Debug\netcoreapp3.1\BaseCode.AssemblyInfo.cs
+E:\learn\BaseCode\BaseCode\obj\Debug\netcoreapp3.1\BaseCode.csproj.CopyComplete
+E:\learn\BaseCode\BaseCode\obj\Debug\netcoreapp3.1\BaseCode.dll
+E:\learn\BaseCode\BaseCode\obj\Debug\netcoreapp3.1\BaseCode.pdb
+E:\learn\BaseCode\BaseCode\obj\Debug\netcoreapp3.1\BaseCode.genruntimeconfig.cache

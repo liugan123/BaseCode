@@ -1,0 +1,9 @@
+E:\learn\BaseCode\LinkList\bin\Debug\netcoreapp3.1\LinkList.deps.json
+E:\learn\BaseCode\LinkList\bin\Debug\netcoreapp3.1\LinkList.dll
+E:\learn\BaseCode\LinkList\bin\Debug\netcoreapp3.1\LinkList.pdb
+E:\learn\BaseCode\LinkList\obj\Debug\netcoreapp3.1\LinkList.csprojAssemblyReference.cache
+E:\learn\BaseCode\LinkList\obj\Debug\netcoreapp3.1\LinkList.csproj.CoreCompileInputs.cache
+E:\learn\BaseCode\LinkList\obj\Debug\netcoreapp3.1\LinkList.AssemblyInfoInputs.cache
+E:\learn\BaseCode\LinkList\obj\Debug\netcoreapp3.1\LinkList.AssemblyInfo.cs
+E:\learn\BaseCode\LinkList\obj\Debug\netcoreapp3.1\LinkList.dll
+E:\learn\BaseCode\LinkList\obj\Debug\netcoreapp3.1\LinkList.pdb
