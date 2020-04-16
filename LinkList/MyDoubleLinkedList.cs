@@ -11,6 +11,7 @@ namespace LinkList
     {
         /*
          每个节点都有两个指针域，一个指向前驱节点，一个指向后继节点
+         index为索引
          */
         private int count;
         private DbNode<T> head;
@@ -121,7 +122,7 @@ namespace LinkList
             }
             else
             {
-                DbNode<T> currNode = GetNodeByIndex(index - 1);
+                DbNode<T> currNode = GetNodeByIndex(index);
                 DbNode<T> nextNode = currNode.NextNode;
                 currNode.NextNode = dbNode;
                 dbNode.PrevNode = currNode;
@@ -136,7 +137,7 @@ namespace LinkList
         /// <summary>
         /// 在指定位置前插入新节点
         /// </summary>
-        /// <param name="index"></param>
+        /// <param name="index">索引</param>
         /// <param name="value"></param>
         public void InsertBefore(int index,T value) 
         {
@@ -160,7 +161,7 @@ namespace LinkList
             }
             else
             {
-                DbNode<T> currNode = GetNodeByIndex(index - 1);
+                DbNode<T> currNode = GetNodeByIndex(index);
                 DbNode<T> prevNode = currNode.PrevNode;
                 currNode.PrevNode = dbNode;
                 prevNode.NextNode = dbNode;
@@ -195,7 +196,7 @@ namespace LinkList
                 }
                 delNode = null;
             }
-            this.count++;
+            this.count--;
         }
         #region 测试
         public static void MyDoubleLinkedListTest()
